@@ -57,6 +57,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/903</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_White_Company/enAoAAAAMAAJ</dc:source>
+		<meta property="se:production-notes">Some archaic spellings (`Cambrig`, `riever`, `murtherer`, `Dicon`, etc.) have been retained as part of the prose style. Some archaic words differ across editions (`adrad` -> `afraid`, etc.), these have been kept as in the transcription. Other archaic middle-English words (`herbergage`, etc.) have not been italicized as part of the prose style.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_White_Company</meta>

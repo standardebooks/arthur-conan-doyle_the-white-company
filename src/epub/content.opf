@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-15T23:35:37Z</dc:date>
+		<meta property="dcterms:modified">2025-10-15T23:35:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,16 +51,21 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2007102079</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Sir Nigel Loring</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<dc:description id="description">A young English novice in the Middle Ages embarks on action-packed adventure as he joins a motley band of travelers seeking to join with a free company of archers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;It is the Middle Ages, and the Hundred Years War rages on in England and France. Alleyne Edricson, the son of an English landowner, is training as a novice at an abbey. As his training draws to a close, he’s called upon to spend a year in the outside world to decide if he really wants to devote his life to prayer and contemplation.&lt;/p&gt;
+			&lt;p&gt;He quickly meets Hordle John, a fellow novice expelled for misbehavior, and Aylward, a French archer traveling to meet the famous knight Sir Nigel Loring and join his band of archers, the titular White Company. The three decide to travel together, and embark on a series of action-packed adventures across England, France, and Spain.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle&lt;/a&gt; was inspired to write about the time period after attending a lecture on the subject. He spent years researching the era, and his careful research is evident in the novel’s detail: period-correct words and names add a flavor of verisimilitude, and nearly all of the people and places in the tale really did exist—and are moreover depicted to a great degree of historical accuracy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/903</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_White_Company/enAoAAAAMAAJ</dc:source>
 		<meta property="se:production-notes">Some archaic spellings (`Cambrig`, `riever`, `murtherer`, `Dicon`, etc.) have been retained as part of the prose style. Some archaic words differ across editions (`adrad` -&gt; `afraid`, etc.), these have been kept as in the transcription. Other archaic middle-English words (`herbergage`, etc.) have not been italicized as part of the prose style.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">151415</meta>
+		<meta property="se:reading-ease.flesch">76.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_White_Company</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-white-company</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>

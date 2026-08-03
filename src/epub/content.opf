@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company</dc:identifier>
 		<dc:date>2025-10-15T23:35:37Z</dc:date>
@@ -55,12 +55,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Sir Nigel Loring</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A young English novice in the Middle Ages embarks on action-packed adventure as he joins a motley band of travelers seeking to join with a free company of archers.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young English novice in the Middle Ages embarks on action-packed adventure as he joins a motley band of travelers seeking to join with a free company of archers.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;It is the Middle Ages, and the Hundred Years War rages on in England and France. Alleyne Edricson, the son of an English landowner, is training as a novice at an abbey. As his training draws to a close, he’s called upon to spend a year in the outside world to decide if he really wants to devote his life to prayer and contemplation.&lt;/p&gt;
 			&lt;p&gt;He quickly meets Hordle John, a fellow novice expelled for misbehavior, and Aylward, a French archer traveling to meet the famous knight Sir Nigel Loring and join his band of archers, the titular White Company. The three decide to travel together, and embark on a series of action-packed adventures across England, France, and Spain.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle&lt;/a&gt; was inspired to write about the time period after attending a lecture on the subject. He spent years researching the era, and his careful research is evident in the novel’s detail: period-correct words and names add a flavor of verisimilitude, and nearly all of the people and places in the tale really did exist—and are moreover depicted to a great degree of historical accuracy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/903</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_White_Company/enAoAAAAMAAJ</dc:source>
